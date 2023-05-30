@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleNotes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="info_title">About Apps</string>
+    <string name="info_description">The Simple-Notes application has been meticulously crafted to cater to the needs of uncomplicated note-taking activities. I earnestly hope that each and every one of you will derive great pleasure from utilizing this application.</string>
+    <string name="info_additional_description">I earnestly hope that each and every one of you will derive great pleasure from utilizing this application.</string>
+</resources>
